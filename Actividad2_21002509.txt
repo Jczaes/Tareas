@@ -1,0 +1,51 @@
+var mes = 10
+var dato = prompt("Ingrese el numero de mes que desea calcular","0")
+
+if (dato >= 13){
+  alert("El numero en meses no existe")
+}
+else if(dato <= 0){
+  alert("El cero no es un mes")
+}
+else if(dato == 12 ){
+  alert("Es invierno")
+}
+else if(dato == 1 ){
+  alert("Es invierno")
+}
+else if(dato == 2 ){
+  alert("Es invierno")
+}
+else if(dato == 3 ){
+  alert("Es primavera")
+}
+else if(dato == 4 ){
+  alert("Es primavera")
+}
+else if(dato == 5 ){
+  alert("Es primavera")
+}
+else if(dato == 6 ){
+  alert("Es verano")
+}
+else if(dato == 7 ){
+  alert("Es verano")
+}
+else if(dato == 8 ){
+  alert("Es verano")
+}
+else if(dato == 9 ){
+  alert("Es otoño")
+}
+else if(dato == 10 ){
+  alert("Es otoño")
+}
+else if(dato == 11 ){
+  alert("Es otoño")
+}
+else{
+  alert("Ingrese un numero")
+}
+alert("Número de Carné : 21002509")
+alert("Nombre :Juan Carlos Zaput Espinoza")
+    
